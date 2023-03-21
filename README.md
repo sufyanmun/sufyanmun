@@ -30,3 +30,7 @@ Hi there! I'm a self-taught full-stack developer and data nerd. I discovered my 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+#
+
+![Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufyanmun&show_icons=true&theme=highcontrast)
