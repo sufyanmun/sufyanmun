@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sufyanmun">
-     <img src="https://github.com/sufyanmun/sufyanmun/blob/main/headerTitle.gif" alt="Sufyan Mun" /></a> 
+     <img src="https://github.com/sufyanmun/sufyanmun/blob/main/Black%20Technology%20LinkedIn%20Banner.png" alt="Sufyan Mun" /></a> 
      <br>
   </p>
 
