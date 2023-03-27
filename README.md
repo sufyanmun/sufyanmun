@@ -5,7 +5,7 @@
   </p>
 
   
-  `Digital Connoisseur - (Developer/Marketer/Analyst)`
+  `Digital Connoisseur - (Developer/Analyst)`
   
 Hi there! I'm a self-taught full-stack developer and data nerd. I discovered my love of programming playing around with inspect elements as a teenager to mess with my friends. Since then, I've worked in many industries primarily as a data nerd creating visualizations, writing complex queries, and driving insights. My passion for everything related to tech is what keeps things exciting and has always kept a data-driven approach to my decision-making. In my spare time, you can catch me in the gym, on hikes, or mindlessly scrolling on TikTok 😄. 
   
